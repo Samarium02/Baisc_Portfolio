@@ -1,4 +1,4 @@
-
+<img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/053f2cb2-e1bd-4476-bcc8-c53be64c5602">
 # Portfolio Website
 
 Welcome to the basic portfolio website building. This is a basic portfolio website developed using HTML, CSS, and JavaScript. It is a simple and clean design that you can use to showcase your skills, projects, and personal information.
@@ -102,10 +102,22 @@ JavaScript
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at swatiminj2002@gmail.com.com
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/e3af39f6-f207-4513-90fe-973eef40ad8e">
+<img width="1363" alt="Screenshot 2023-11-12 at 4 28 37 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/45f15795-d379-4964-820d-3c79d513386f">
+<img width="1391" alt="Screenshot 2023-11-12 at 4 28 48 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/2f4ce6d9-5759-4079-9d27-8c6d83c61142">
+<img width="1396" alt="Screenshot 2023-11-12 at 4 29 26 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/c8ba9310-3f8a-4f11-9bf5-d05fbc9a83f4">
+<img width="1376" alt="Screenshot 2023-11-12 at 4 30 05 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/21f74892-1a80-49bc-8830-1b62e583ac47">
+<img width="1406" alt="Screenshot 2023-11-12 at 4 30 43 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/594bfe1f-30ae-4b63-91a1-896c497e20a6">
+
+**Works**
+![Screen Recording 2023-11-12 at 4 35 20 AM](https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/ad0f645f-505a-41c2-a98d-f938ee5ce81b)
+
+
+
+
 
