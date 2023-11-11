@@ -1,4 +1,3 @@
-<img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/053f2cb2-e1bd-4476-bcc8-c53be64c5602">
 # Portfolio Website
 
 Welcome to the basic portfolio website building. This is a basic portfolio website developed using HTML, CSS, and JavaScript. It is a simple and clean design that you can use to showcase your skills, projects, and personal information.
@@ -105,7 +104,8 @@ JavaScript
 If you have any feedback, please reach out to us at swatiminj2002@gmail.com.com
 
 ## Works
-![Screen Recording 2023-11-12 at 4 35 20 AM](https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/ad0f645f-505a-41c2-a98d-f938ee5ce81b)
+![Screen Recording 2023-11-12 at 4 35 20 AM (1)](https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/db207ed1-cd0a-48ac-9803-57dbb76d8159)
+
 
 ## Screenshots
 <img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/31b8d0f7-94c9-40b4-afad-b4ff2fa5d8ce">
