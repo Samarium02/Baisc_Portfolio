@@ -108,7 +108,6 @@ If you have any feedback, please reach out to us at swatiminj2002@gmail.com.com
 
 
 ## Screenshots
-<img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/31b8d0f7-94c9-40b4-afad-b4ff2fa5d8ce">
 <img width="1391" alt="Screenshot 2023-11-12 at 4 28 19 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/e3af39f6-f207-4513-90fe-973eef40ad8e">
 <img width="1363" alt="Screenshot 2023-11-12 at 4 28 37 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/45f15795-d379-4964-820d-3c79d513386f">
 <img width="1391" alt="Screenshot 2023-11-12 at 4 28 48 AM" src="https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/2f4ce6d9-5759-4079-9d27-8c6d83c61142">
