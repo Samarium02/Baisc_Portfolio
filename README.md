@@ -104,7 +104,7 @@ JavaScript
 If you have any feedback, please reach out to us at swatiminj2002@gmail.com.com
 
 ## Works
-![Screen Recording 2023-11-12 at 4 35 20 AM (1)](https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/db207ed1-cd0a-48ac-9803-57dbb76d8159)
+![Screen Recording 2023-11-12 at 4 35 20 AM (1)](https://github.com/Samarium02/Baisc_Portfolio/assets/92641801/34f46b2d-a479-494d-b97c-290e9a581ef0)
 
 
 ## Screenshots
